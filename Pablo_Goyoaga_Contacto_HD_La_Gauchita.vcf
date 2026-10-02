@@ -3,9 +3,12 @@ VERSION:3.0
 N:Goyoaga;Pablo;;;
 FN:Pablo Goyoaga
 ORG:La Gauchita
-TITLE:Referente Comercial / Commercial Representative
+TITLE:Director Comercial / Commercial Director
 TEL;TYPE=CELL:+5491150052512
 EMAIL;TYPE=INTERNET:pgoyoaga@lagauchita.com
+URL:https://www.lagauchita.com/
+ADR;TYPE=WORK;LABEL="Oficinas - Av. Cabildo 4200, C1429 Cdad. Autónoma de Buenos Aires":;;Av. Cabildo 4200;Cdad. Autónoma de Buenos Aires;;C1429;Argentina
+ADR;TYPE=WORK;LABEL="Arrecifes - Ruta Provincial 51 y Urquiza, B2740DKA, Arrecifes, Provincia de Buenos Aires":;;Ruta Provincial 51 y Urquiza;Arrecifes;Provincia de Buenos Aires;B2740DKA;Argentina
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgICAgMCAgID
  AwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD/2w
  BDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQ
