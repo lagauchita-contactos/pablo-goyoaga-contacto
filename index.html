@@ -80,11 +80,23 @@
       LA GAUCHITA
     </div>
 
-    <a class="button"
-       href="Pablo_Goyoaga_Contacto_HD_La_Gauchita.vcf"
-       >
-       Guardar contacto / Save contact
-    </a>
+    <a class="button" id="contactButton" href="#">
+   Guardar contacto / Save contact
+</a>
+
+<script>
+document.getElementById("contactButton").addEventListener("click", function(e) {
+    e.preventDefault();
+
+    const isIPhone = /iPhone|iPad|iPod/i.test(navigator.userAgent);
+
+    if (isIPhone) {
+        window.location.href = "Pablo_Goyoaga_PRUEBA_IPHONE_VCARD3_LOGO.vcf";
+    } else {
+        window.location.href = "Pablo_Goyoaga_Contacto_HD_La_Gauchita.vcf";
+    }
+});
+</script>
 
     <div class="help">
       Tocá el botón para agregar el contacto a tu teléfono.<br>
